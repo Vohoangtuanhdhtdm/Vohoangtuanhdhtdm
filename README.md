@@ -33,9 +33,7 @@ I'm a passionate and detail-oriented .NET Backend Developer from Vietnam, specia
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vohoangtuanhdhtdm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Vohoangtuanhdhtdm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
