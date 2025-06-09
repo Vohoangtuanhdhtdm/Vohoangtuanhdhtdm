@@ -1,3 +1,24 @@
+### 👋 Hi, I'm Võ Hoàng Tuấn!
+
+<p align="left">
+  <a href="https://github.com/Vohoangtuanhdhtdm">
+    <img src="https://img.shields.io/badge/Made%20in%20Vietnam-DA251D.svg?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkZGRjAwIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTIgLjU4N2wzLjY2OCA3LjU2OCA4LjMzMiAxLjE1MS02LjA2NCA1LjgyOCAxLjQ4IDguMjc5LTcuNDE2LTMuOTY3LTcuNDE3IDMuOTY3IDEuNDgxLTguMjc5LTYuMDY0LTUuODI4IDguMzMyLTEuMTUxeiIvPjwvc3ZnPg==">
+  </a>
+</p>
+
+I'm a passionate and detail-oriented .NET Backend Developer from Vietnam, specializing in building robust and maintainable systems with **Clean Architecture** and **SOLID principles**. I am driven by the challenge of solving complex problems and aspire to contribute to building high-quality "Make in Vietnam" technology products.
+
+### ✍️ Lời dạy của Bác
+> "Không có việc gì khó,
+> <br>Chỉ sợ lòng không bền.
+> <br>Đào núi và lấp biển,
+> <br>Quyết chí ắt làm nên."
+>
+> **— Hồ Chí Minh**
+
+---
+[![](https://visitcount.itsvg.in/api?id=Vohoangtuanhdhtdm&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/tuan.vohoang.3194) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vohoang392/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tuan-vo-hoang-18aa56307/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:voh81049@gmail.com) 
@@ -12,10 +33,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vohoangtuanhdhtdm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🏆 GitHub Trophies
 
----
-[![](https://visitcount.itsvg.in/api?id=Vohoangtuanhdhtdm&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=Vohoangtuanhdhtdm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
